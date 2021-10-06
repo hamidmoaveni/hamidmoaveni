@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hamidmoaveni
-- 👀 I’m interested in 
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My E-mail address is:
+                            hrf110@gmail.com
 
 <!---
 hamidmoaveni/hamidmoaveni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
